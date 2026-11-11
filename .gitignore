@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+# course input data and generated outputs
+orbit_workshop_inputs*.zip
+satellite_orbits/
